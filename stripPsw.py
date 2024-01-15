@@ -20,7 +20,7 @@ from pypdf import PdfReader, PdfWriter
 import pypdfium2 as pdfium
 
 # Konstanten
-my_psw = "hgsruesweg1923"
+my_psw = "MyWondefulPassword"
 my_prefix = "decrypt_"
 my_path = "E:\\Daten\\Dülmen\\HGS\\HGS Rechnungen"
 
