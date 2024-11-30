@@ -1,0 +1,4 @@
+# requirements.in
+kivy==2.3.0 
+pypdf==4.0.2
+pypdfium2==4.27.0

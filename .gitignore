@@ -1,0 +1,9 @@
+__pycache__/
+.vscode/
+build/
+dist/
+alt/
+test/
+*.bat
+*.alt
+*.log

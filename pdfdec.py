@@ -30,6 +30,7 @@ my_psw = "hgsruesweg1923"
 my_prefix = "decrypt_"
 my_path = "E:\\Daten\\Dülmen\\HGS\\HGS Rechnungen"
 
+print(sys.platform)
 
 class MainWindow(QMainWindow, Ui_frm_pdfDec):
     def __init__(self, myApp):
